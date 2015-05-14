@@ -144,4 +144,3 @@ double freq(note_t note, int octave_delta)
     freq = freq * factor;
     return freq;
 }
-~          
